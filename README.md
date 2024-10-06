@@ -1,3 +1,5 @@
+# MyStack - (Module5)
+
 This program is currently being maintained and has recently been updated to Version 2 which still provides a class to aid in sorting a list of numbers from the scanned input. However, the program has now been updated to utilize a Stack algorithm as opposed to a LinkedList. Therefore, numbers provided by a user are now saved into a sorted stack. This program also shows examples of code reuse  by using Stack and Collections.sort()
 
 Features:
